@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bit-blog/static/css/main.dc1b8307.chunk.css",
+    "main.js": "/bit-blog/static/js/main.7ad2387d.chunk.js",
+    "main.js.map": "/bit-blog/static/js/main.7ad2387d.chunk.js.map",
+    "runtime-main.js": "/bit-blog/static/js/runtime-main.d9753654.js",
+    "runtime-main.js.map": "/bit-blog/static/js/runtime-main.d9753654.js.map",
+    "static/js/2.93b64410.chunk.js": "/bit-blog/static/js/2.93b64410.chunk.js",
+    "static/js/2.93b64410.chunk.js.map": "/bit-blog/static/js/2.93b64410.chunk.js.map",
+    "index.html": "/bit-blog/index.html",
+    "static/css/main.dc1b8307.chunk.css.map": "/bit-blog/static/css/main.dc1b8307.chunk.css.map",
+    "static/js/2.93b64410.chunk.js.LICENSE.txt": "/bit-blog/static/js/2.93b64410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9753654.js",
+    "static/js/2.93b64410.chunk.js",
+    "static/css/main.dc1b8307.chunk.css",
+    "static/js/main.7ad2387d.chunk.js"
+  ]
+}
